@@ -9,3 +9,8 @@ class Tab:
         'veggie' : 12,
         'desert' : 6
     }
+
+
+def __init__(self):
+    self.total = 0
+    self.items = []
